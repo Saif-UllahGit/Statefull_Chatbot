@@ -52,10 +52,12 @@ The saved state allows the chatbot to continue conversations while maintaining p
 ```text
 stateful-chatbot/
 │
-├── app.py
-├── langgraph_backend.py
+├── streamlit_frontend_databasse.py
+├── langgraph_backend_databasse.py
 ├── requirements.txt
 ├── .env
 ├── .gitignore
 ├── README.md
 └── chatbot.db
+Run: streamlit run streamlit_frontend_databasse.py
+
