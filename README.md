@@ -82,7 +82,7 @@ Make sure `.env` is included in `.gitignore` and never upload your API key to Gi
 The Streamlit interface is located in:
 
 ```text
-streamlit_frontend_database.py
+streamlit_frontend_databasse.py
 ```
 
 Run it using:
@@ -104,8 +104,8 @@ Open this URL in your browser to interact with the chatbot.
 ```text
 stateful-chatbot/
 │
-├── streamlit_frontend_database.py   # Streamlit user interface
-├── langgraph_backend_database.py    # LangGraph chatbot backend
+├── streamlit_frontend_databasse.py   # Streamlit user interface
+├── langgraph_backend_databasse.py    # LangGraph chatbot backend
 ├── requirements.txt                 # Project dependencies
 ├── .env                             # API key (do not upload)
 ├── .gitignore
